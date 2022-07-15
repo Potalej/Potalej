@@ -1,17 +1,21 @@
-### Olar! 👋
+<h2> Olar! 👋 </h2>
+<p>Curso Matemática Aplicada e Computacional na <a href="https://www5.usp.br/">USP</a>. Desenvolvo umas coisinhas aqui, outras ali. Vou seguindo 😉</o>
 
-<!--
-**Potalej/Potalej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>⚡ Coisinhas </h2>
 
-Here are some ideas to get you started:
+- 🧐 Aprendendo sobre sistemas dinâmicos, métodos de álgebra linear numérica e um pouco de tudo mais;
+- 👨‍💻 Algumas das coisas mais legais nas quais mexi estão em meu <a href="https://github.com/Potalej">GitHub</a>;
+- 📝 Disseram que deveria postar o que escrevo. Quando começar linko aqui 🤫
 
-- 🔭 I’m currently working on ...
-- 🌱 Estou aprendendo Python...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Algumas tecnologias que uso</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+</p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=potalej.potalej&left_text=Curiosos)
