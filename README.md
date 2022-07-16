@@ -3,7 +3,7 @@
 
 <h2>⚡ Coisinhas </h2>
 
-- 🧐 Aprendendo sobre sistemas dinâmicos, métodos de álgebra linear numérica e um pouco de tudo mais;
+- 🧐 Aprendendo sobre sistemas dinâmicos, métodos numéricos em álgebra linear e um pouco de tudo mais;
 - 👨‍💻 Algumas das coisas mais legais nas quais mexi estão em meu <a href="https://github.com/Potalej">GitHub</a>;
 - 📝 Disseram que deveria postar o que escrevo. Quando começar linko aqui 🤫
 
