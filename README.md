@@ -4,8 +4,7 @@
 <h2>⚡ Coisinhas </h2>
 
 - 🧐 Aprendendo sobre sistemas dinâmicos, métodos numéricos em álgebra linear e um pouco de tudo mais;
-- 👨‍💻 Algumas das coisas mais legais nas quais mexi estão em meu <a href="https://github.com/Potalej">GitHub</a>;
-- 📝 Disseram que deveria postar o que escrevo. Quando começar linko aqui 🤫
+- 👨‍💻 Algumas das coisas mais legais nas quais mexi estão em meu <a href="https://github.com/Potalej">GitHub</a>.
 
 <h2>🚀 Algumas tecnologias que uso</h2>
 <p align="left">
