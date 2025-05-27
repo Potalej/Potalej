@@ -1,10 +1,11 @@
-<h2> Olar! 👋 </h2>
-<p>Curso Matemática Aplicada e Computacional na <a href="https://www5.usp.br/">USP</a>. Desenvolvo umas coisinhas aqui, outras ali. Vou seguindo 😉</o>
+<h2> Olá! 👋 </h2>
+<p>Mestrando em Matemática Aplicada no <a href="https://www.ime.usp.br/">IME-USP</a>. Desenvolvo umas coisinhas aqui, outras ali. Vou seguindo 😉</o>
 
 <h2>⚡ Coisinhas </h2>
 
-- 🧐 Aprendendo sobre sistemas dinâmicos, métodos numéricos, álgebra linear e um pouco de tudo mais;
-- 👨‍💻 Algumas das coisas mais legais nas quais mexi estão em meu <a href="https://github.com/Potalej">GitHub</a>.
+- 🪐 Simulação de Problema de N-Corpos gravitacional;
+- 👨‍💻 Métodos numéricos;
+- 🧐 O que mais der na telha.
 
 <h2>🚀 Algumas tecnologias que uso</h2>
 <p align="left">
